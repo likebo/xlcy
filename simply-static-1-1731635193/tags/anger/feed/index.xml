@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>憤怒 &#8211; 線上免費心理測驗</title>
+	<atom:link href="/tags/anger/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>線上免費心理測驗網站提供各種免費心理測試，讓您輕鬆線上上進行自我評估。涵蓋事業、人際關係、婚姻、情緒等方面，包括事業心理測驗、人格測驗、婚姻心理測驗、心理症狀量表等。所有測驗均可線上免費完成，並提供專業分析和建議，助您更全面地瞭解自己，提升生活質量。探索這些線上測試，深入認識您的內心世界。</description>
+	<lastBuildDate>Wed, 07 Aug 2024 03:57:58 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/09/staff_1024.png</url>
+	<title>憤怒 &#8211; 線上免費心理測驗</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>憤怒情緒線上免費測驗（一）：憤怒程度（5題）</title>
+		<link>/anger-1</link>
+		
+		<dc:creator><![CDATA[測驗家]]></dc:creator>
+		<pubDate>Thu, 21 Dec 2023 15:29:01 +0000</pubDate>
+				<category><![CDATA[心理症狀量表]]></category>
+		<category><![CDATA[態度量表]]></category>
+		<category><![CDATA[臨床心理測驗]]></category>
+		<category><![CDATA[情緒]]></category>
+		<category><![CDATA[憤怒]]></category>
+		<guid isPermaLink="false">https://bookmark.tw/?p=5613</guid>
+
+					<description><![CDATA[你到底是憤怒的主人呢，還是憤怒的奴僕?憤怒可以有建設性作用，也可以有破壞性作用。心理學家安新力·恩托博士指出，受阻的憤怒能以壓抑、緊張和其他生理失調反饋於人體。]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>憤怒情緒線上免費測驗（二）：憤怒控制類型（20題）</title>
+		<link>/anger-2</link>
+		
+		<dc:creator><![CDATA[測驗家]]></dc:creator>
+		<pubDate>Sun, 29 Oct 2023 04:10:06 +0000</pubDate>
+				<category><![CDATA[心理症狀量表]]></category>
+		<category><![CDATA[態度量表]]></category>
+		<category><![CDATA[臨床心理測驗]]></category>
+		<category><![CDATA[情緒]]></category>
+		<category><![CDATA[憤怒]]></category>
+		<guid isPermaLink="false">https://bookmark.tw/?p=2839</guid>
+
+					<description><![CDATA[憤怒是情感負反應趨向極端的一種情境。憤怒的人處在過激情緒狀態中，沒有很強的自我意識，幾乎陷入非理智狀態，意志力大大減弱。你能控制怒火嗎？對下列題目選出最適合你的選項。]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

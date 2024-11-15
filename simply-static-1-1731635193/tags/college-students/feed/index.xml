@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>大學生 &#8211; 線上免費心理測驗</title>
+	<atom:link href="/tags/college-students/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>線上免費心理測驗網站提供各種免費心理測試，讓您輕鬆線上上進行自我評估。涵蓋事業、人際關係、婚姻、情緒等方面，包括事業心理測驗、人格測驗、婚姻心理測驗、心理症狀量表等。所有測驗均可線上免費完成，並提供專業分析和建議，助您更全面地瞭解自己，提升生活質量。探索這些線上測試，深入認識您的內心世界。</description>
+	<lastBuildDate>Wed, 07 Aug 2024 03:52:13 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/09/staff_1024.png</url>
+	<title>大學生 &#8211; 線上免費心理測驗</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>憂鬱情緒及壓力檢測大專生版線上免費測驗（18-24歲）（32題）</title>
+		<link>/depression-stress-detection-college</link>
+		
+		<dc:creator><![CDATA[測驗家]]></dc:creator>
+		<pubDate>Wed, 27 Dec 2023 01:42:12 +0000</pubDate>
+				<category><![CDATA[心理症狀量表]]></category>
+		<category><![CDATA[神經心理測驗]]></category>
+		<category><![CDATA[臨床心理測驗]]></category>
+		<category><![CDATA[大學生]]></category>
+		<category><![CDATA[憂鬱]]></category>
+		<category><![CDATA[憂鬱症]]></category>
+		<guid isPermaLink="false">https://bookmark.tw/?p=5696</guid>
+
+					<description><![CDATA[本測驗約需5分鐘，目標為協助學生檢測自己近期的情緒狀態。歡迎18歲~24歲且正就讀於大專院校的學生使用！提醒您，此測驗不是診斷，有憂鬱症傾向請尋求專業醫療協助]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

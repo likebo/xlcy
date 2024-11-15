@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>焦慮 &#8211; 線上免費心理測驗</title>
+	<atom:link href="/tags/anxiety/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>線上免費心理測驗網站提供各種免費心理測試，讓您輕鬆線上上進行自我評估。涵蓋事業、人際關係、婚姻、情緒等方面，包括事業心理測驗、人格測驗、婚姻心理測驗、心理症狀量表等。所有測驗均可線上免費完成，並提供專業分析和建議，助您更全面地瞭解自己，提升生活質量。探索這些線上測試，深入認識您的內心世界。</description>
+	<lastBuildDate>Wed, 07 Aug 2024 15:40:43 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/09/staff_1024.png</url>
+	<title>焦慮 &#8211; 線上免費心理測驗</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>焦慮自評量表(SAS)線上免費測驗（20題）</title>
+		<link>/sas</link>
+		
+		<dc:creator><![CDATA[測驗家]]></dc:creator>
+		<pubDate>Thu, 08 Feb 2024 13:44:14 +0000</pubDate>
+				<category><![CDATA[心理症狀量表]]></category>
+		<category><![CDATA[臨床心理測驗]]></category>
+		<category><![CDATA[焦慮]]></category>
+		<guid isPermaLink="false">https://bookmark.tw/?p=5999</guid>
+
+					<description><![CDATA[焦慮自評量表(Self-Rating Anxiety Scale,SAS)是一種分析病人主觀癥狀的相當簡便的臨床工具。由於焦慮是心理諮詢門診中較常見的一種情緒障礙，所以近年來SAS是諮詢門診中瞭解焦慮癥狀的常用量表。]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>泰勒顯性焦慮量表(MAS)線上免費測驗（65題）</title>
+		<link>/mas</link>
+		
+		<dc:creator><![CDATA[測驗家]]></dc:creator>
+		<pubDate>Sun, 29 Oct 2023 04:10:16 +0000</pubDate>
+				<category><![CDATA[臨床心理測驗]]></category>
+		<category><![CDATA[心理症狀量表]]></category>
+		<category><![CDATA[焦慮]]></category>
+		<guid isPermaLink="false">https://bookmark.tw/?p=2810</guid>
+
+					<description><![CDATA[所造成的敏感性，會導致人對於負性事件的過度反應，從而引起焦慮。你正在被焦慮所困擾嗎？下面有65個詢問項目，請好好地讀，但不必過分思考。]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

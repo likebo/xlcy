@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>理性 &#8211; 線上免費心理測驗</title>
+	<atom:link href="/tags/rationality/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>線上免費心理測驗網站提供各種免費心理測試，讓您輕鬆線上上進行自我評估。涵蓋事業、人際關係、婚姻、情緒等方面，包括事業心理測驗、人格測驗、婚姻心理測驗、心理症狀量表等。所有測驗均可線上免費完成，並提供專業分析和建議，助您更全面地瞭解自己，提升生活質量。探索這些線上測試，深入認識您的內心世界。</description>
+	<lastBuildDate>Thu, 08 Aug 2024 05:45:11 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/09/staff_1024.png</url>
+	<title>理性 &#8211; 線上免費心理測驗</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>線上免費測驗：你是感性的還是理性的人？（10題）</title>
+		<link>/emotional-or-rational</link>
+		
+		<dc:creator><![CDATA[測驗家]]></dc:creator>
+		<pubDate>Thu, 26 Oct 2023 00:59:22 +0000</pubDate>
+				<category><![CDATA[人格（個性、性格）測驗]]></category>
+		<category><![CDATA[態度量表]]></category>
+		<category><![CDATA[感性]]></category>
+		<category><![CDATA[理性]]></category>
+		<guid isPermaLink="false">https://bookmark.tw/?p=2672</guid>
+
+					<description><![CDATA[為人處世是熱情激動還是理智冷靜，兩者應該說各有長處與不足，重要的是能否揚長避短。本問卷有10道測試題，每題有三個選項，請你看清楚每一道題的意思，以最快的速度誠實作答，每題只選一項答案。]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

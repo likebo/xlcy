@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>失智症 &#8211; 線上免費心理測驗</title>
+	<atom:link href="/tags/dementia/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>線上免費心理測驗網站提供各種免費心理測試，讓您輕鬆線上上進行自我評估。涵蓋事業、人際關係、婚姻、情緒等方面，包括事業心理測驗、人格測驗、婚姻心理測驗、心理症狀量表等。所有測驗均可線上免費完成，並提供專業分析和建議，助您更全面地瞭解自己，提升生活質量。探索這些線上測試，深入認識您的內心世界。</description>
+	<lastBuildDate>Wed, 07 Aug 2024 03:51:26 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/09/staff_1024.png</url>
+	<title>失智症 &#8211; 線上免費心理測驗</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>極早期失智症篩檢量表(AD-8)線上免費測驗（8題）</title>
+		<link>/ad-8</link>
+		
+		<dc:creator><![CDATA[測驗家]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2023 13:08:35 +0000</pubDate>
+				<category><![CDATA[臨床心理測驗]]></category>
+		<category><![CDATA[心理症狀量表]]></category>
+		<category><![CDATA[神經心理測驗]]></category>
+		<category><![CDATA[失智症]]></category>
+		<guid isPermaLink="false">https://bookmark.tw/?p=5728</guid>
+
+					<description><![CDATA[失智症量表：極早期失智症篩檢量表（AD-8）用於自我評估、家屬或專業人員親自詢問或電話詢問，其檢測內容包含阿茲 [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>蒙特利爾認知評估 (台灣版)(MOCA)</title>
+		<link>/moca-taiwan</link>
+		
+		<dc:creator><![CDATA[測驗家]]></dc:creator>
+		<pubDate>Fri, 29 Dec 2023 10:37:02 +0000</pubDate>
+				<category><![CDATA[臨床心理測驗]]></category>
+		<category><![CDATA[心理症狀量表]]></category>
+		<category><![CDATA[神經心理測驗]]></category>
+		<category><![CDATA[失智症]]></category>
+		<guid isPermaLink="false">https://bookmark.tw/?p=5742</guid>
+
+					<description><![CDATA[蒙特利爾認知評估（MoCA）於1996年，由加拿大魁北克省蒙特利爾的 Ziad Nasreddine醫生所發明，起初是用於評估輕度認知功能障礙，在其評估成果獲得驗證後，隨後便於臨床上被廣泛採用。]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>簡易精神狀態檢查量表（SPMSQ量表）</title>
+		<link>/spmsq</link>
+		
+		<dc:creator><![CDATA[測驗家]]></dc:creator>
+		<pubDate>Fri, 29 Dec 2023 10:37:01 +0000</pubDate>
+				<category><![CDATA[神經心理測驗]]></category>
+		<category><![CDATA[心理症狀量表]]></category>
+		<category><![CDATA[臨床心理測驗]]></category>
+		<category><![CDATA[失智症]]></category>
+		<guid isPermaLink="false">https://bookmark.tw/?p=5735</guid>
+
+					<description><![CDATA[進行方式：依下表所列的問題，詢問個案並將結果紀錄下來，（如果個案家中沒有電話，可將4題改為4A題），答錯的問題請記錄下來。]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>簡易心智狀態檢查（MMSE）</title>
+		<link>/mmse</link>
+		
+		<dc:creator><![CDATA[測驗家]]></dc:creator>
+		<pubDate>Fri, 29 Dec 2023 10:37:00 +0000</pubDate>
+				<category><![CDATA[臨床心理測驗]]></category>
+		<category><![CDATA[心理症狀量表]]></category>
+		<category><![CDATA[神經心理測驗]]></category>
+		<category><![CDATA[失智症]]></category>
+		<guid isPermaLink="false">https://bookmark.tw/?p=5730</guid>
+
+					<description><![CDATA[簡易心智量表（Mini-Mental State Examination；MMSE）於 1975 年 Folstein 及 Mc Huge 所制定，評估項目包括定向感、注意力、記憶力、語言、口語理解及行為能力、建構力等項目，評估過程無時間限制，滿分是 30 分，分數越高表示認知功能越好]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

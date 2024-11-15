@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /post/author/
+Disallow: /ai/author/
+Disallow: /ai/wp-admin/
+Disallow: /ai/tag/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://bookmark.tw/wp-sitemap.xml

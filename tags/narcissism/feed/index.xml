@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>自戀 &#8211; 線上免費心理測驗</title>
+	<atom:link href="/tags/narcissism/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>線上免費心理測驗網站提供各種免費心理測試，讓您輕鬆線上上進行自我評估。涵蓋事業、人際關係、婚姻、情緒等方面，包括事業心理測驗、人格測驗、婚姻心理測驗、心理症狀量表等。所有測驗均可線上免費完成，並提供專業分析和建議，助您更全面地瞭解自己，提升生活質量。探索這些線上測試，深入認識您的內心世界。</description>
+	<lastBuildDate>Wed, 07 Aug 2024 15:50:16 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/09/staff_1024.png</url>
+	<title>自戀 &#8211; 線上免費心理測驗</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>自戀人格量表（NPI）線上免費測驗（56題）</title>
+		<link>/npi</link>
+		
+		<dc:creator><![CDATA[測驗家]]></dc:creator>
+		<pubDate>Wed, 20 Dec 2023 10:25:05 +0000</pubDate>
+				<category><![CDATA[人格（個性、性格）測驗]]></category>
+		<category><![CDATA[心理症狀量表]]></category>
+		<category><![CDATA[臨床心理測驗]]></category>
+		<category><![CDATA[自戀]]></category>
+		<guid isPermaLink="false">https://bookmark.tw/?p=2589</guid>
+
+					<description><![CDATA[你會是拚命愛著自己的自戀者嗎？你的朋友，家人，戀人，同事又是怎樣的狀況？填寫這份由美國加州大學Raskin教授編制的自戀人格問卷，來看看你和你認識的人會是什麼程度的自戀者吧。]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>小測驗：自戀程度測驗</title>
+		<link>/narcissism</link>
+		
+		<dc:creator><![CDATA[測驗家]]></dc:creator>
+		<pubDate>Sun, 29 Oct 2023 04:10:07 +0000</pubDate>
+				<category><![CDATA[人格（個性、性格）測驗]]></category>
+		<category><![CDATA[心理症狀量表]]></category>
+		<category><![CDATA[自戀]]></category>
+		<guid isPermaLink="false">https://bookmark.tw/?p=2835</guid>
+
+					<description><![CDATA[你的自戀程度如何，是否已經突破健康的界限了呢？下面的測試可以幫助你瞭解自己的自戀程度。從第一題開始，按指示前進，直到找到答案。]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>小測驗：你是否自戀得討人厭</title>
+		<link>/too-narcissistic-to-be-annoying</link>
+		
+		<dc:creator><![CDATA[測驗家]]></dc:creator>
+		<pubDate>Mon, 16 Oct 2023 01:00:57 +0000</pubDate>
+				<category><![CDATA[人格（個性、性格）測驗]]></category>
+		<category><![CDATA[人際關係測驗]]></category>
+		<category><![CDATA[自戀]]></category>
+		<guid isPermaLink="false">https://bookmark.tw/?p=3213</guid>
+
+					<description><![CDATA[自戀就像炒菜用的鹽，少了則淡而無味，多了便難以入口。千萬別把自戀發揮到極致，那會成為一種病。想知道自己有沒有潛伏的自戀傾向，請回答以下問題。]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
